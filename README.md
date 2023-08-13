@@ -11,4 +11,4 @@ Currently a 3rd year student at The University of Edinburgh studying Artificial 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt = "SQLite Logo" width="40" height="40" /> 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt = "SQLAlchemy logo" width="40" height="40" /> 
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YafetMelake&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YafetMelake&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
