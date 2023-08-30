@@ -12,4 +12,4 @@ Currently a 3rd year student at The University of Edinburgh studying Artificial 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt = "SQLAlchemy logo" width="40" height="40" /> 
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YafetMelake&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YafetMelake&show_icons=true&theme=transparent) -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YafetMelake&show_icons=true&theme=transparent)
