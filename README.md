@@ -2,6 +2,8 @@
 ---
 Currently a 3rd year student at The University of Edinburgh studying Artificial Intelligence and Computer Science
 ---
+<!--
 ## 📊 My GitHub Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YafetMelake&show_icons=true&hide_border=true&theme=radical)](https://github.com/YafetMelake)
+-->
